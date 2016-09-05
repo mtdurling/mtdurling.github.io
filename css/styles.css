@@ -1,0 +1,27 @@
+.container {
+  margin: 0 50px;
+}
+
+.content {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+.content .profile {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  position: relative;
+}
+
+.content .social-container .social-item {
+  margin: 10px 0;
+}
+
+.content .social-container .social-item a{
+  text-decoration: none;
+  color: grey;
+  font-size: 1.2em;
+}
