@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.betabud.mobile",
+      "sha256_cert_fingerprints": [
+        "0C:A7:E5:AE:3B:71:95:41:78:6B:C9:F8:D0:30:68:07:62:8E:00:38:0C:91:9E:30:91:0A:C3:96:F1:26:BB:99"
+      ]
+    }
+  }
+]
